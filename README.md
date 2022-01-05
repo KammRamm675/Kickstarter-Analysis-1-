@@ -1,11 +1,10 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
     
 ### Purpose
 
--   The purpose of this analysis is to provide information as to how similar campaigns fared in relation to their respected launch dates and funding goals. 
+-   The purpose of this analysis is to provide information on Kickstarter data to uncover trends and how similar campaigns fared in relation to their respective launch dates and funding goals. 
     
 ## Analysis and Challenges
 
@@ -27,7 +26,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Results
 
-### Theater_Outcomes_vs_Launch
+### Outcomes Based on Launch Date
 
 -   Please reference graph, "Theater_Outcomes_vs_Launch."  We can see a relation for Theater Outcomes based off the relationship between the number of outcomes throughout the year for the "successful," "failed," and "cancelled" values.  April and July are good times to start funding raise and December is the worst; in overall terms, the best dates to launch a campaign would be in May.  If you look at the numbers May has 111 successes, 52 failures, and 3 cancellations.  Keeping an eye on success, there is a total of 56 successes overall (Successes-(failed+canceled).  Using the same process, we can see that December is the worst month with a -1 campaign success total.  October will be considered inconclusive due to there being no data present.)  
 
