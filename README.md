@@ -32,7 +32,7 @@
 
 -   Another item to note is throughout the year, a steady line was maintained for campaigns being cancelled canceled. January was the only spike with most cancellations and July had the least cancellations with only 1. 
 
-### Outcomes based on Goals
+### Outcomes Based on Goals
 
 -   Please reference graph, "Outcomes Based on Goals?  One of the biggest conclusions that can be drawn from this graph is the from the cancellation line.  At every range of goals there were NO Outcomes resulting from cancellations.  Every range maintained a 0% cancellation degree. 
 
@@ -47,7 +47,7 @@
 
 ### Other Considerations
 
--   This assignment reallly used line graphs exclusively almost.  I would have used a histogram for the "Outcomes Based on Launch Date." Histograms reflect numerical distrubution.  
+-   This analysis used line graphs exclusively mostly.  I would have used a histogram for the "Outcomes Based on Launch Date." Histograms reflect numerical distrubution.  
 
 -   The line graph for "Outcomes Based on Goals" is very appropriate for that type of data and I wouldn't change it.  If I had to change it would go with a bar graph. 
 
